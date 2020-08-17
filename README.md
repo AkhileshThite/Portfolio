@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+![](portfolio.jpg)
+# Work
+*To view full project please click on the link (project headers) below.*
+# [Project 1: MAGIC Gamma Telescope](https://github.com/AkhileshThite/MAGIC-Gamma-Telescope)
+- It is used to find the "cosmic source" by registration of high energy gamma particles in a ground-based atmospheric Cherenkov gamma telescope using imaging technique.
 
-You can use the [editor on GitHub](https://github.com/AkhileshThite/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- I tested all the classification algorithms and finally got the best results by using "Random Forest Classification". And then distinguished gamma rays (signal) from hadronic showers (background) for the further studies.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Dataset source- https://archive.ics.uci.edu/ml/datasets/magic+gamma+telescope
 
-### Markdown
+![](/realclass.png) ![](/predictedclass.png) 
+![](/roccurve.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# [Project 2: K-Means Clustering](https://github.com/AkhileshThite/K-Means-Clustering)
+- The dataset contains some customer information of a mall along with their mall spending time (entries).
 
-```markdown
-Syntax highlighted code block
+- I've successfully separated all the customers into groups by using "K-means clusturing" algorithm, So advertisers can target a specific group of customers to increase the profits of the mall.
 
-# Header 1
-## Header 2
-### Header 3
+![](/elbowmethod.png) ![](/clusters.png)
 
-- Bulleted
-- List
+# [Project 3: Tic-Tac-Toe Endgame](https://github.com/AkhileshThite/Tic-Tac-Toe-Endgame)
+- This dataset encodes the complete set of possible board configurations at the end of tic-tac-toe games, where "x" is assumed to have played first. The target concept is "win for x". I got 98.44% accuracy by using "Artificial Neural Network".
 
-1. Numbered
-2. List
+- Dataset source- https://archive.ics.uci.edu/ml/datasets/Tic-Tac-Toe+Endgame
 
-**Bold** and _Italic_ and `Code` text
+# [Project 4: Simple Linear Regression](https://github.com/AkhileshThite/Simple-Linear-Regression) 
+- I've built a model that can predict India's population with 99.3% accuracy by using "Simple Linear Regression" algorithm. 
+Python libraries- numpy, pandas, matplotlib.pyplot and scikit-learn. 
 
-[Link](url) and ![Image](src)
-```
+![](/Project4.png)      
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AkhileshThite/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# About
+[![](linkedin.png)](https://www.linkedin.com/in/akhileshthite/)  [![](github.png)](https://github.com/AkhileshThite) 
