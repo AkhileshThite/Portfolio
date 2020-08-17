@@ -1,4 +1,4 @@
-![](portfolio.jpg)
+![](/portfolio.jpg)
 # Work
 *To view full project please click on the link (project headers) below.*
 # [Project 1: MAGIC Gamma Telescope](https://github.com/AkhileshThite/MAGIC-Gamma-Telescope)
@@ -27,7 +27,7 @@
 - I've built a model that can predict India's population with 99.3% accuracy by using "Simple Linear Regression" algorithm. 
 Python libraries- numpy, pandas, matplotlib.pyplot and scikit-learn. 
 
-![](/Project4.png)      
+![](/project4.png)      
 
 
 # About
