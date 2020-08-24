@@ -1,4 +1,3 @@
-![](/portfolio.jpg)
 # Work
 *To view full project please click on the link (project headers) below.*
 # [Project 1: MAGIC Gamma Telescope](https://github.com/AkhileshThite/MAGIC-Gamma-Telescope)
