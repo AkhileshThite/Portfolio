@@ -29,4 +29,4 @@ Python libraries- numpy, pandas, matplotlib.pyplot and scikit-learn.
 
 
 # About
-[![](linkedin.png)](https://www.linkedin.com/in/akhileshthite/)  [![](github.png)](https://github.com/AkhileshThite) 
+[![](linkedin.png)](https://www.linkedin.com/in/akhileshthite/)  [![](github.png)](https://github.com/AkhileshThite)  [![](kaggle.png)](https://www.kaggle.com/akhileshthite) 
