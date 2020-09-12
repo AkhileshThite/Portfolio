@@ -1,3 +1,4 @@
+[![](linkedin.png)](https://www.linkedin.com/in/akhileshthite/)  [![](github.png)](https://github.com/AkhileshThite)  [![](kaggle.png)](https://www.kaggle.com/akhileshthite) 
 # Work
 *To view full project please click on the link (project headers) below.*
 # [Project 1 | Classification: MAGIC Gamma Telescope](https://github.com/AkhileshThite/MAGIC-Gamma-Telescope)
@@ -28,5 +29,3 @@ Python libraries- numpy, pandas, matplotlib.pyplot and scikit-learn.
 ![](/project4.png)      
 
 
-# About
-[![](linkedin.png)](https://www.linkedin.com/in/akhileshthite/)  [![](github.png)](https://github.com/AkhileshThite)  [![](kaggle.png)](https://www.kaggle.com/akhileshthite) 
