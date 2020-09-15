@@ -7,7 +7,7 @@
 
 • Dataset source- https://archive.ics.uci.edu/ml/datasets/magic+gamma+telescope
 
-![](/realclass.png) ![](/predictedclass.png)
+![](/heatmap.png) ![](/realclass.png) ![](/predictedclass.png)
 
 # [Project 2 | Clustering: Mall Customers](https://github.com/AkhileshThite/K-Means-Clustering)
 • The dataset contains some customer information of a mall along with their mall spending time (entries).
