@@ -14,7 +14,7 @@
 
 • I've successfully separated all the customers into groups by using **"K-means clusturing"** algorithm, So advertisers can target a specific group of customers to increase the profits of the mall.
 
-![](/elbowmethod.png) ![](/clusters.png)
+![](/clusterheatmap.png)  ![](/elbowmethod.png)  ![](/clusters.png)
 
 # [Project 3 | Deep Learning: Tic-Tac-Toe Endgame](https://github.com/AkhileshThite/Tic-Tac-Toe-Endgame)
 • This dataset encodes the complete set of possible board configurations at the end of tic-tac-toe games, where "x" is assumed to have played first. The target concept is "win for x". I got **98.44%** accuracy by using **"Artificial Neural Network"**.
