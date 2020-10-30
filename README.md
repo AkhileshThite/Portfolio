@@ -23,6 +23,8 @@
 
 • I've successfully separated all the customers into groups by using **"K-means clusturing"** algorithm, So advertisers can target a specific group of customers to increase the profits of the mall.
 
+![](/mall.jpeg)
+
 ![](/clusterheatmap.png)  ![](/elbowmethod.png)  ![](/clusters.png)
 
 # [Project 4 | Deep Learning: ]()
