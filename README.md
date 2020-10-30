@@ -5,7 +5,7 @@
 
 • I tested all the classification algorithms and finally got the best results with **99.98%** accuracy by using **"Random Forest Classification"**. And then distinguished gamma rays (signal) from hadronic showers (background) for the further studies.
 
-
+![](/MAGIC-telescope-twitter.jpg)
 ![](/heatmap.png)  ![](/realclass.png)  ![](/predictedclass.png)
 
 # [Project 3 | Clustering: Mall Customers](https://github.com/AkhileshThite/K-Means-Clustering)
