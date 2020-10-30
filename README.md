@@ -27,9 +27,10 @@
 
 ![](/clusterheatmap.png)  ![](/elbowmethod.png)  ![](/clusters.png)
 
-# [Project 4 | Deep Learning: ]()
+# [Project 4 | Deep Learning (ANN): Heart Disease Prediction](https://github.com/AkhileshThite/Deep-Learning-ANN-Heart-Disease-Prediction)
 
-*Under Construction!*
+![](/heart.jpeg)
+
 
 # About 
 [![](linkedin.png)](https://www.linkedin.com/in/akhileshthite/)   [![](github.png)](https://github.com/AkhileshThite)   [![](kaggle.png)](https://www.kaggle.com/akhileshthite)
