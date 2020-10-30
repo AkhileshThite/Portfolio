@@ -28,6 +28,9 @@
 ![](/clusterheatmap.png)  ![](/elbowmethod.png)  ![](/clusters.png)
 
 # [Project 4 | Deep Learning (ANN): Heart Disease Prediction](https://github.com/AkhileshThite/Deep-Learning-ANN-Heart-Disease-Prediction)
+• This dataset contains health information of patients in Cleveland, Ohio. The "goal" field refers to the presence of heart disease in the patient. It is integer valued from 0 (no presence) to 4.
+
+• With the help of ANN we can distinguish presence (values 1,2,3,4) from absence (value 0).
 
 ![](/heart.jpeg)
 
