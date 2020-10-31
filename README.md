@@ -1,3 +1,5 @@
+               [![](linkedin.png)](https://www.linkedin.com/in/akhileshthite/)            [![](github.png)](https://github.com/AkhileshThite)             [![](kaggle.png)](https://www.kaggle.com/akhileshthite)
+
 # Work
 *To view full project please click on the link (project headers) below.*
 # [Project 1 | Advanced Regression Techniques: House Prices](https://github.com/AkhileshThite/Advanced-Regression-Techniques-House-Prices)
